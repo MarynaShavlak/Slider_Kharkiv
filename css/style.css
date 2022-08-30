@@ -76,7 +76,7 @@ body {
     color: black;
 }
 
-@media only screen and (max-device-width: 600px) {
+@media only screen and (max-device-width: 700px) {
     .running-row {
 
         font-size: 40px;
